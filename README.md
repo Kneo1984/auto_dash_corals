@@ -20,3 +20,10 @@ MIT License  keine kommerzielle Nutzung ohne Zustimmung. Ethik über alles.
 
 ## Autor
 Dennis Maier  Data Analyst in Ausbildung, Ethik-Developer, Projekt AUREON.
+
+## Lizenzhinweis
+
+Forks sind ausschließlich zu Lern- oder Testzwecken erlaubt.  
+Jede kommerzielle oder produktive Nutzung ist ohne Lizenz verboten.  
+
+DENARIS-OS © 2025 Dennis Maier (KNEO)
